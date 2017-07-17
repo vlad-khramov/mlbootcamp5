@@ -1,0 +1,115 @@
+01 сырые
+    02 fillna(0)
+    03 fillna(001) + imt
+    04 чистка1
+    05 чистка1+имт
+06 чистка1+имт+класс_имт
+    07 06+комбинации+-*/ (лишние)
+    08 чистка2 (как в чате)
+    09 08+имт
+    10 08+fillna(0,0,1)
+    11 08+fillna(mean)
+    12 09+класс_имт
+    13 06 без one hot
+    14 06 + комбинации+-*/ + log
+    15 06 + feature sel hyperopt 02
+    16 06 + feature sel del 01
+    17 06 + feature sel 03
+    18 06 + feature sel 04
+    19 06 + feature sel 05
+        20 06 + комбинации+-*/ + по 3
+-------
+    21 06 + feature sel 06 / 1
+    22 06 + feature sel 06 / 2
+    23 06 + feature sel 06 / 3
+    24 06 + feature sel 06 / 4
+    25 06 + feature sel 06 / 5
+    26 06 + feature sel 07 / 1
+    27 06 + feature sel 08 / 1
+        28 06 + feature sel 08 / пачка
+        29 28 + score v1                       3
+        30 28 + score v2                       4
+        31 28 + score v3                       5
+        32 28 + score manual                   1
+        33 28 + age 5 year
+        34 28 + time to birthday
+        35 28 + score v4                       2
+        36 28 + score v5 rev                   7
+        37 28 + score v6 rev                   6
+        38 28 + score v5 rev                   7
+        40 38 + комбинации+-*/ + по 3
+        41 37 + kmean 3 7 15
+    42 36 fillna 001
+    43 42 + kmean 3 7 15
+        44 42 + kmean 3 7
+    45 43 + stat
+    46 43 + na
+------
+47 06 + feature sel 08 / пачка + fillna 001
+    48 47 + score v5 rev
+    49 47 + score v5 rev with nan
+    50 49 + kmean 3 7 15
+    51 50 + stat features
+    52 50 + stat features / select 11
+    53 49 + stat features / select 11 (52-kmean)
+    54 53 + kmean(43)
+    55 53 + kmean 3,7,15
+    56 53 + kmean 3,7,15 (without subj)
+    57 53 + kmean 3,7
+    58 53 + kmean 3,15
+    59 53 + kmean 7,15
+    60 56 + stat
+    61 56 + stat features / select 14
+    62 56 - stat features11
+    63 62 + stat features / select 17 (danger, score depends on smoke)
+    64 62 + stat features / select 17 v2
+    65 63 +pca
+66 62 + stat features / select 17 v3
+    67 66 - score
+    8
+69 66 feat sel del 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+select
+
+data_id, model_id,max(cv_diff), max(std), sum(sum_sc)/sum(cnt), sum(cnt), r.cv_time
+ from
+
+(
+select model_id, fold, data_id, sum(cv_score) as sum_sc, std(cv_score) as std, max(cv_score)-min(cv_score) as cv_diff, count(*) as cnt
+from qml_results_statistic
+
+where
+1=1
+ -- and data_id in (53)-- and
+  and model_id in ( 1395) -- 1255
+
+ and seed <= 1001
+
+
+
+group by  model_id, data_id, fold
+
+) q
+
+left join qml_results r using (model_id, data_id)
+
+group by data_id, model_id
+
+order by sum(sum_sc)/sum(cnt)
+
+limit 100

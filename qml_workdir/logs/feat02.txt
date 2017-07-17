@@ -1,0 +1,1252 @@
+INFO:hyperopt.tpe:tpe_transform took 0.029019 seconds
+INFO:hyperopt.tpe:TPE using 0 trials
+INFO:root:   16/32 ['age_years', 'ap_error', 'cholesterol_2', 'gender_female', 'gender_male', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'imt_class_all', 'weight', 'weight_low']
+INFO:root:   1 0.6394820089268252
+INFO:root:0.6394820089268252	['age_years', 'ap_error', 'cholesterol_2', 'gender_female', 'gender_male', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'imt_class_all', 'weight', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.081050 seconds
+INFO:hyperopt.tpe:TPE using 1/1 trials with best loss 0.639482
+INFO:root:   19/32 ['active', 'age', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_all', 'height', 'height_low', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'weight', 'weight_low']
+INFO:root:   1 0.5722574619990748
+INFO:root:0.5722574619990748	['active', 'age', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_all', 'height', 'height_low', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'weight', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.028020 seconds
+INFO:hyperopt.tpe:TPE using 2/2 trials with best loss 0.572257
+INFO:root:   16/32 ['age', 'ap_error_swap', 'cholesterol_2', 'cholesterol_3', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt_class_1', 'imt_class_2', 'imt_class_3', 'imt_class_4', 'imt_class_6', 'smoke', 'weight_low']
+INFO:root:   1 0.62906754764992
+INFO:root:0.62906754764992	['age', 'ap_error_swap', 'cholesterol_2', 'cholesterol_3', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt_class_1', 'imt_class_2', 'imt_class_3', 'imt_class_4', 'imt_class_6', 'smoke', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.028018 seconds
+INFO:hyperopt.tpe:TPE using 3/3 trials with best loss 0.572257
+INFO:root:   13/32 ['active', 'age', 'alco', 'ap_hi', 'gender_female', 'gender_male', 'gluc_all', 'height_low', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_5', 'smoke']
+INFO:root:   1 0.5455973940483906
+INFO:root:0.5455973940483906	['active', 'age', 'alco', 'ap_hi', 'gender_female', 'gender_male', 'gluc_all', 'height_low', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_5', 'smoke']
+INFO:hyperopt.tpe:tpe_transform took 0.026018 seconds
+INFO:hyperopt.tpe:TPE using 4/4 trials with best loss 0.545597
+INFO:root:   15/32 ['active', 'age', 'ap_error', 'ap_error_swap', 'ap_hi', 'cholesterol_2', 'gluc_2', 'height_low', 'imt', 'imt_class_1', 'imt_class_2', 'imt_class_4', 'smoke', 'weight', 'weight_low']
+INFO:root:   1 0.5443972689377317
+INFO:root:   2 0.5520453258082558
+INFO:root:0.5520453258082558	['active', 'age', 'ap_error', 'ap_error_swap', 'ap_hi', 'cholesterol_2', 'gluc_2', 'height_low', 'imt', 'imt_class_1', 'imt_class_2', 'imt_class_4', 'smoke', 'weight', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.029017 seconds
+INFO:hyperopt.tpe:TPE using 5/5 trials with best loss 0.545597
+INFO:root:   18/32 ['age', 'age_years', 'alco', 'ap_error', 'ap_hi', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_2', 'gluc_3', 'gluc_all', 'height', 'height_low', 'imt_class_3', 'imt_class_6', 'weight', 'weight_low']
+INFO:root:   1 0.5364848661804377
+INFO:root:   2 0.5442553849868922
+INFO:root:   3 0.5439736425153302
+INFO:root:   4 0.54256605991653
+INFO:root:   5 0.53462073101258
+INFO:root:0.540380136922354	['age', 'age_years', 'alco', 'ap_error', 'ap_hi', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_2', 'gluc_3', 'gluc_all', 'height', 'height_low', 'imt_class_3', 'imt_class_6', 'weight', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.031251 seconds
+INFO:hyperopt.tpe:TPE using 6/6 trials with best loss 0.540380
+INFO:root:   11/32 ['alco', 'cholesterol_all', 'gender_male', 'gluc_2', 'gluc_all', 'imt_class_2', 'imt_class_3', 'imt_class_6', 'imt_class_all', 'smoke', 'weight_low']
+INFO:root:   1 0.6507666566507951
+INFO:root:0.6507666566507951	['alco', 'cholesterol_all', 'gender_male', 'gluc_2', 'gluc_all', 'imt_class_2', 'imt_class_3', 'imt_class_6', 'imt_class_all', 'smoke', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.031249 seconds
+INFO:hyperopt.tpe:TPE using 7/7 trials with best loss 0.540380
+INFO:root:   12/32 ['active', 'age_years', 'ap_error', 'ap_error_swap', 'ap_hi', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_all', 'height_low', 'imt_class_0', 'weight_low']
+INFO:root:   1 0.5381823638668433
+INFO:root:   2 0.5456542281427348
+INFO:root:0.5456542281427348	['active', 'age_years', 'ap_error', 'ap_error_swap', 'ap_hi', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_all', 'height_low', 'imt_class_0', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.028018 seconds
+INFO:hyperopt.tpe:TPE using 8/8 trials with best loss 0.540380
+INFO:root:   20/32 ['active', 'age', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_2', 'imt_class_3', 'imt_class_4', 'imt_class_all', 'smoke', 'weight_low']
+INFO:root:   1 0.5348952332408009
+INFO:root:   2 0.5421969708119226
+INFO:root:   3 0.5427990932506549
+INFO:root:   4 0.5407814092277492
+INFO:root:   5 0.5331231000777522
+INFO:root:0.5387591613217759	['active', 'age', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_2', 'imt_class_3', 'imt_class_4', 'imt_class_all', 'smoke', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.032022 seconds
+INFO:hyperopt.tpe:TPE using 9/9 trials with best loss 0.538759
+INFO:root:   16/32 ['active', 'age_years', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_3', 'gluc_2', 'height', 'height_low', 'imt_class_2', 'imt_class_3', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:root:   1 0.5371360259004923
+INFO:root:   2 0.5437987246313815
+INFO:root:   3 0.545857564981489
+INFO:root:0.545857564981489	['active', 'age_years', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_3', 'gluc_2', 'height', 'height_low', 'imt_class_2', 'imt_class_3', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.030021 seconds
+INFO:hyperopt.tpe:TPE using 10/10 trials with best loss 0.538759
+INFO:root:   20/32 ['active', 'age', 'age_years', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_2', 'cholesterol_3', 'gender_female', 'gender_male', 'gluc_1', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_3', 'imt_class_4', 'imt_class_5', 'smoke']
+INFO:root:   1 0.5357687680331716
+INFO:root:   2 0.5430914406837521
+INFO:root:   3 0.5438540209308561
+INFO:root:   4 0.5414212919881569
+INFO:root:   5 0.5345183439816691
+INFO:root:0.5397307731235212	['active', 'age', 'age_years', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_2', 'cholesterol_3', 'gender_female', 'gender_male', 'gluc_1', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_3', 'imt_class_4', 'imt_class_5', 'smoke']
+INFO:hyperopt.tpe:tpe_transform took 0.031018 seconds
+INFO:hyperopt.tpe:TPE using 11/11 trials with best loss 0.538759
+INFO:root:   21/32 ['active', 'age', 'age_years', 'ap_error', 'ap_hi', 'cholesterol_3', 'cholesterol_all', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height_low', 'imt', 'imt_class_0', 'imt_class_1', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'imt_class_all', 'weight', 'weight_low']
+INFO:root:   1 0.5359326754591899
+INFO:root:   2 0.5432591280116978
+INFO:root:   3 0.5429057009744546
+INFO:root:   4 0.5425483004914077
+INFO:root:   5 0.5340587459704604
+INFO:root:0.5397409101814421	['active', 'age', 'age_years', 'ap_error', 'ap_hi', 'cholesterol_3', 'cholesterol_all', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height_low', 'imt', 'imt_class_0', 'imt_class_1', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'imt_class_all', 'weight', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.015631 seconds
+INFO:hyperopt.tpe:TPE using 12/12 trials with best loss 0.538759
+INFO:root:   18/32 ['active', 'age', 'age_years', 'ap_error', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'gender_male', 'gluc_3', 'gluc_all', 'imt', 'imt_class_0', 'imt_class_1', 'imt_class_2', 'imt_class_all', 'weight', 'weight_low']
+INFO:root:   1 0.5353893104077896
+INFO:root:   2 0.5423854167895633
+INFO:root:   3 0.5429917927009517
+INFO:root:   4 0.5415059577063437
+INFO:root:   5 0.5333647034465979
+INFO:root:0.5391274362102492	['active', 'age', 'age_years', 'ap_error', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'gender_male', 'gluc_3', 'gluc_all', 'imt', 'imt_class_0', 'imt_class_1', 'imt_class_2', 'imt_class_all', 'weight', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.031250 seconds
+INFO:hyperopt.tpe:TPE using 13/13 trials with best loss 0.538759
+INFO:root:   10/32 ['active', 'age_years', 'cholesterol_1', 'cholesterol_2', 'cholesterol_3', 'gluc_all', 'height', 'height_low', 'imt_class_5', 'smoke']
+INFO:root:   1 0.6374295956229798
+INFO:root:0.6374295956229798	['active', 'age_years', 'cholesterol_1', 'cholesterol_2', 'cholesterol_3', 'gluc_all', 'height', 'height_low', 'imt_class_5', 'smoke']
+INFO:hyperopt.tpe:tpe_transform took 0.087251 seconds
+INFO:hyperopt.tpe:TPE using 14/14 trials with best loss 0.538759
+INFO:root:   20/32 ['active', 'age_years', 'alco', 'ap_error', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_2', 'cholesterol_3', 'gluc_3', 'height', 'height_low', 'imt', 'imt_class_0', 'imt_class_1', 'imt_class_2', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'weight']
+INFO:root:   1 0.5349449535631596
+INFO:root:   2 0.5423498007521447
+INFO:root:   3 0.542972212714195
+INFO:root:   4 0.5412492618288807
+INFO:root:   5 0.5330915874100194
+INFO:root:0.5389215632536799	['active', 'age_years', 'alco', 'ap_error', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_2', 'cholesterol_3', 'gluc_3', 'height', 'height_low', 'imt', 'imt_class_0', 'imt_class_1', 'imt_class_2', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.040108 seconds
+INFO:hyperopt.tpe:TPE using 15/15 trials with best loss 0.538759
+INFO:root:   16/32 ['active', 'age', 'alco', 'ap_hi', 'cholesterol_1', 'gluc_2', 'gluc_3', 'height', 'height_low', 'imt_class_3', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:root:   1 0.5382343236024982
+INFO:root:   2 0.5469288935440643
+INFO:root:0.5469288935440643	['active', 'age', 'alco', 'ap_hi', 'cholesterol_1', 'gluc_2', 'gluc_3', 'height', 'height_low', 'imt_class_3', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.015624 seconds
+INFO:hyperopt.tpe:TPE using 16/16 trials with best loss 0.538759
+INFO:root:   17/32 ['age', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_hi', 'cholesterol_2', 'gender_male', 'gluc_2', 'gluc_3', 'gluc_all', 'height', 'height_low', 'imt', 'imt_class_2', 'weight', 'weight_low']
+INFO:root:   1 0.5443568300002536
+INFO:root:   2 0.5514974319199434
+INFO:root:0.5514974319199434	['age', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_hi', 'cholesterol_2', 'gender_male', 'gluc_2', 'gluc_3', 'gluc_all', 'height', 'height_low', 'imt', 'imt_class_2', 'weight', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.031251 seconds
+INFO:hyperopt.tpe:TPE using 17/17 trials with best loss 0.538759
+INFO:root:   16/32 ['active', 'ap_hi', 'ap_lo', 'cholesterol_1', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'gluc_all', 'height_low', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_6', 'weight']
+INFO:root:   1 0.5557780137793313
+INFO:root:0.5557780137793313	['active', 'ap_hi', 'ap_lo', 'cholesterol_1', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'gluc_all', 'height_low', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_6', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.034540 seconds
+INFO:hyperopt.tpe:TPE using 18/18 trials with best loss 0.538759
+INFO:root:   14/32 ['alco', 'ap_error', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'gender_male', 'gluc_1', 'gluc_2', 'height', 'height_low', 'imt', 'imt_class_2', 'imt_class_3', 'weight']
+INFO:root:   1 0.5924968395742741
+INFO:root:0.5924968395742741	['alco', 'ap_error', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'gender_male', 'gluc_1', 'gluc_2', 'height', 'height_low', 'imt', 'imt_class_2', 'imt_class_3', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031249 seconds
+INFO:hyperopt.tpe:TPE using 19/19 trials with best loss 0.538759
+INFO:root:   19/32 ['active', 'age', 'alco', 'ap_error', 'ap_hi', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'height', 'height_low', 'imt_class_0', 'imt_class_1', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:root:   1 0.5354739480616025
+INFO:root:   2 0.5432467646098597
+INFO:root:   3 0.5427966563833303
+INFO:root:   4 0.5420435364628419
+INFO:root:   5 0.5334698174952291
+INFO:root:0.5394061446025726	['active', 'age', 'alco', 'ap_error', 'ap_hi', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'height', 'height_low', 'imt_class_0', 'imt_class_1', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.029019 seconds
+INFO:hyperopt.tpe:TPE using 20/20 trials with best loss 0.538759
+INFO:root:   20/32 ['active', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gluc_3', 'imt', 'imt_class_0', 'imt_class_1', 'imt_class_2', 'imt_class_3', 'imt_class_4', 'imt_class_5', 'imt_class_all', 'smoke']
+INFO:root:   1 0.5350923924930185
+INFO:root:   2 0.5424573069642266
+INFO:root:   3 0.5429973591335142
+INFO:root:   4 0.5409246908504769
+INFO:root:   5 0.5330746519555486
+INFO:root:0.538909280279357	['active', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gluc_3', 'imt', 'imt_class_0', 'imt_class_1', 'imt_class_2', 'imt_class_3', 'imt_class_4', 'imt_class_5', 'imt_class_all', 'smoke']
+INFO:hyperopt.tpe:tpe_transform took 0.031250 seconds
+INFO:hyperopt.tpe:TPE using 21/21 trials with best loss 0.538759
+INFO:root:   20/32 ['active', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gluc_3', 'imt', 'imt_class_0', 'imt_class_1', 'imt_class_2', 'imt_class_3', 'imt_class_4', 'imt_class_5', 'imt_class_all', 'smoke']
+INFO:root:   1 0.5350923924930185
+INFO:root:   2 0.5424573069642266
+INFO:root:   3 0.5429973591335142
+INFO:root:   4 0.5409246908504769
+INFO:root:   5 0.5330746519555486
+INFO:root:0.538909280279357	['active', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gluc_3', 'imt', 'imt_class_0', 'imt_class_1', 'imt_class_2', 'imt_class_3', 'imt_class_4', 'imt_class_5', 'imt_class_all', 'smoke']
+INFO:hyperopt.tpe:tpe_transform took 0.036024 seconds
+INFO:hyperopt.tpe:TPE using 22/22 trials with best loss 0.538759
+INFO:root:   19/32 ['active', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'imt', 'imt_class_0', 'imt_class_1', 'imt_class_2', 'imt_class_3', 'imt_class_4', 'imt_class_5', 'imt_class_all', 'smoke']
+INFO:root:   1 0.5359585681700888
+INFO:root:   2 0.543334849059836
+INFO:root:   3 0.5441335737169939
+INFO:root:   4 0.5418220617426905
+INFO:root:   5 0.5337148175340248
+INFO:root:0.5397927740447268	['active', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'imt', 'imt_class_0', 'imt_class_1', 'imt_class_2', 'imt_class_3', 'imt_class_4', 'imt_class_5', 'imt_class_all', 'smoke']
+INFO:hyperopt.tpe:tpe_transform took 0.033023 seconds
+INFO:hyperopt.tpe:TPE using 23/23 trials with best loss 0.538759
+INFO:root:   22/32 ['active', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gluc_3', 'gluc_all', 'imt', 'imt_class_0', 'imt_class_1', 'imt_class_2', 'imt_class_3', 'imt_class_4', 'imt_class_5', 'imt_class_all', 'smoke', 'weight_low']
+INFO:root:   1 0.5349301895146737
+INFO:root:   2 0.5422103413160012
+INFO:root:   3 0.5428682822204004
+INFO:root:   4 0.5408813583169635
+INFO:root:   5 0.5331423613404908
+INFO:root:0.5388065065417058	['active', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gluc_3', 'gluc_all', 'imt', 'imt_class_0', 'imt_class_1', 'imt_class_2', 'imt_class_3', 'imt_class_4', 'imt_class_5', 'imt_class_all', 'smoke', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.031021 seconds
+INFO:hyperopt.tpe:TPE using 24/24 trials with best loss 0.538759
+INFO:root:   21/32 ['active', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gluc_3', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_2', 'imt_class_3', 'imt_class_4', 'imt_class_5', 'imt_class_all', 'smoke', 'weight_low']
+INFO:root:   1 0.5348750084136806
+INFO:root:   2 0.542256047624952
+INFO:root:   3 0.5428954985249278
+INFO:root:   4 0.5408803478808412
+INFO:root:   5 0.5331142438466562
+INFO:root:0.5388042292582116	['active', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gluc_3', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_2', 'imt_class_3', 'imt_class_4', 'imt_class_5', 'imt_class_all', 'smoke', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.032022 seconds
+INFO:hyperopt.tpe:TPE using 25/25 trials with best loss 0.538759
+INFO:root:   21/32 ['active', 'age', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_2', 'imt_class_3', 'imt_class_4', 'imt_class_5', 'imt_class_all', 'smoke', 'weight_low']
+INFO:root:   1 0.5348750084136806
+INFO:root:   2 0.542256047624952
+INFO:root:   3 0.5428954985249278
+INFO:root:   4 0.5408803478808412
+INFO:root:   5 0.5331142438466562
+INFO:root:0.5388042292582116	['active', 'age', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_2', 'imt_class_3', 'imt_class_4', 'imt_class_5', 'imt_class_all', 'smoke', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.111071 seconds
+INFO:hyperopt.tpe:TPE using 26/26 trials with best loss 0.538759
+INFO:root:   20/32 ['active', 'age', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_2', 'imt_class_3', 'imt_class_4', 'imt_class_all', 'smoke', 'weight_low']
+INFO:root:   1 0.5348952332408009
+INFO:root:   2 0.5421969708119226
+INFO:root:   3 0.5427990932506549
+INFO:root:   4 0.5407814092277492
+INFO:root:   5 0.5331231000777522
+INFO:root:0.5387591613217759	['active', 'age', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_2', 'imt_class_3', 'imt_class_4', 'imt_class_all', 'smoke', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.031251 seconds
+INFO:hyperopt.tpe:TPE using 27/27 trials with best loss 0.538759
+INFO:root:   20/32 ['active', 'age', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_2', 'imt_class_3', 'imt_class_4', 'imt_class_all', 'smoke', 'weight_low']
+INFO:root:   1 0.5348952332408009
+INFO:root:   2 0.5421969708119226
+INFO:root:   3 0.5427990932506549
+INFO:root:   4 0.5407814092277492
+INFO:root:   5 0.5331231000777522
+INFO:root:0.5387591613217759	['active', 'age', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_2', 'imt_class_3', 'imt_class_4', 'imt_class_all', 'smoke', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.031245 seconds
+INFO:hyperopt.tpe:TPE using 28/28 trials with best loss 0.538759
+INFO:root:   18/32 ['age', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_2', 'imt_class_3', 'imt_class_4', 'imt_class_all', 'smoke', 'weight_low']
+INFO:root:   1 0.5734736014314569
+INFO:root:0.5734736014314569	['age', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_2', 'imt_class_3', 'imt_class_4', 'imt_class_all', 'smoke', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.031021 seconds
+INFO:hyperopt.tpe:TPE using 29/29 trials with best loss 0.538759
+INFO:root:   21/32 ['active', 'age', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_2', 'imt_class_3', 'imt_class_4', 'imt_class_all', 'smoke', 'weight_low']
+INFO:root:   1 0.5348688465963318
+INFO:root:   2 0.5422649508944536
+INFO:root:   3 0.5428810341446766
+INFO:root:   4 0.5408821009023412
+INFO:root:   5 0.53312251269061
+INFO:root:0.5388038890456827	['active', 'age', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_2', 'imt_class_3', 'imt_class_4', 'imt_class_all', 'smoke', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.031252 seconds
+INFO:hyperopt.tpe:TPE using 30/30 trials with best loss 0.538759
+INFO:root:   18/32 ['age', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_lo', 'cholesterol_1', 'cholesterol_all', 'gender_female', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_2', 'imt_class_3', 'imt_class_4', 'imt_class_all', 'smoke', 'weight_low']
+INFO:root:   1 0.5731778019283292
+INFO:root:0.5731778019283292	['age', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_lo', 'cholesterol_1', 'cholesterol_all', 'gender_female', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_2', 'imt_class_3', 'imt_class_4', 'imt_class_all', 'smoke', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.031251 seconds
+INFO:hyperopt.tpe:TPE using 31/31 trials with best loss 0.538759
+INFO:root:   19/32 ['active', 'age', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_2', 'imt_class_3', 'imt_class_4', 'imt_class_all', 'smoke', 'weight_low']
+INFO:root:   1 0.5723054838221135
+INFO:root:0.5723054838221135	['active', 'age', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_2', 'imt_class_3', 'imt_class_4', 'imt_class_all', 'smoke', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.015621 seconds
+INFO:hyperopt.tpe:TPE using 32/32 trials with best loss 0.538759
+INFO:root:   20/32 ['active', 'age', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_3', 'imt_class_4', 'imt_class_all', 'smoke', 'weight_low']
+INFO:root:   1 0.5348308220512763
+INFO:root:   2 0.5420879597773309
+INFO:root:   3 0.5426040800272423
+INFO:root:   4 0.5406687393740324
+INFO:root:   5 0.532964364253958
+INFO:root:0.538631193096768	['active', 'age', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_3', 'imt_class_4', 'imt_class_all', 'smoke', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.040026 seconds
+INFO:hyperopt.tpe:TPE using 33/33 trials with best loss 0.538631
+INFO:root:   19/32 ['age', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_3', 'imt_class_4', 'imt_class_all', 'smoke', 'weight_low']
+INFO:root:   1 0.5359251046077085
+INFO:root:   2 0.5430193842224621
+INFO:root:   3 0.5439009582140216
+INFO:root:   4 0.5412153529445266
+INFO:root:   5 0.5339849373270761
+INFO:root:0.539609147463159	['age', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_3', 'imt_class_4', 'imt_class_all', 'smoke', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.032521 seconds
+INFO:hyperopt.tpe:TPE using 34/34 trials with best loss 0.538631
+INFO:root:   18/32 ['active', 'age', 'alco', 'ap_error', 'ap_error_swap', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_3', 'imt_class_4', 'imt_class_all', 'smoke', 'weight_low']
+INFO:root:   1 0.572111179818763
+INFO:root:0.572111179818763	['active', 'age', 'alco', 'ap_error', 'ap_error_swap', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_3', 'imt_class_4', 'imt_class_all', 'smoke', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.015625 seconds
+INFO:hyperopt.tpe:TPE using 35/35 trials with best loss 0.538631
+INFO:root:   19/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_3', 'imt_class_4', 'imt_class_all', 'smoke', 'weight_low']
+INFO:root:   1 0.5347995931695998
+INFO:root:   2 0.5421379758938478
+INFO:root:   3 0.5426699126834129
+INFO:root:   4 0.5407234483185935
+INFO:root:   5 0.5329171006160947
+INFO:root:0.5386496061363097	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_3', 'imt_class_4', 'imt_class_all', 'smoke', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.034023 seconds
+INFO:hyperopt.tpe:TPE using 36/36 trials with best loss 0.538631
+INFO:root:   17/32 ['age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_all', 'gender_female', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_3', 'imt_class_4', 'imt_class_all', 'smoke', 'weight_low']
+INFO:root:   1 0.5358877880237368
+INFO:root:   2 0.5429834856690018
+INFO:root:   3 0.5439568236114919
+INFO:root:   4 0.5411740561870451
+INFO:root:   5 0.5340605867886496
+INFO:root:0.5396125480559851	['age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_all', 'gender_female', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_3', 'imt_class_4', 'imt_class_all', 'smoke', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.031253 seconds
+INFO:hyperopt.tpe:TPE using 37/37 trials with best loss 0.538631
+INFO:root:   17/32 ['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_3', 'imt_class_all', 'smoke', 'weight_low']
+INFO:root:   1 0.5348087038846399
+INFO:root:   2 0.5420897940491408
+INFO:root:   3 0.5426904221624645
+INFO:root:   4 0.5406947867150733
+INFO:root:   5 0.5329812525027026
+INFO:root:0.5386529918628042	['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_3', 'imt_class_all', 'smoke', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.095063 seconds
+INFO:hyperopt.tpe:TPE using 38/38 trials with best loss 0.538631
+INFO:root:   19/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_3', 'imt_class_4', 'imt_class_all', 'smoke', 'weight_low']
+INFO:root:   1 0.5719362273165113
+INFO:root:0.5719362273165113	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_3', 'imt_class_4', 'imt_class_all', 'smoke', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.029019 seconds
+INFO:hyperopt.tpe:TPE using 39/39 trials with best loss 0.538631
+INFO:root:   16/32 ['age', 'age_years', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_all', 'imt_class_3', 'imt_class_4', 'imt_class_6', 'imt_class_all', 'weight_low']
+INFO:root:   1 0.5373023243405419
+INFO:root:   2 0.5437692825664079
+INFO:root:   3 0.5447988943325794
+INFO:root:   4 0.5421877599408348
+INFO:root:   5 0.5355468549146678
+INFO:root:0.5407210232190064	['age', 'age_years', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_all', 'imt_class_3', 'imt_class_4', 'imt_class_6', 'imt_class_all', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.039025 seconds
+INFO:hyperopt.tpe:TPE using 40/40 trials with best loss 0.538631
+INFO:root:   15/32 ['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_3', 'imt_class_all', 'smoke', 'weight_low']
+INFO:root:   1 0.5354795434107672
+INFO:root:   2 0.5433728737642881
+INFO:root:   3 0.5426115120442332
+INFO:root:   4 0.541769889567443
+INFO:root:   5 0.533602126618531
+INFO:root:0.5393671890810525	['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_3', 'imt_class_all', 'smoke', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.031019 seconds
+INFO:hyperopt.tpe:TPE using 41/41 trials with best loss 0.538631
+INFO:root:   17/32 ['active', 'age', 'age_years', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_all', 'imt_class_3', 'imt_class_4', 'imt_class_all', 'smoke', 'weight_low']
+INFO:root:   1 0.5357096900875485
+INFO:root:   2 0.5424699119727704
+INFO:root:   3 0.543154795845871
+INFO:root:   4 0.5408526827896158
+INFO:root:   5 0.5338430141595175
+INFO:root:0.5392060189710647	['active', 'age', 'age_years', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_all', 'imt_class_3', 'imt_class_4', 'imt_class_all', 'smoke', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.032021 seconds
+INFO:hyperopt.tpe:TPE using 42/42 trials with best loss 0.538631
+INFO:root:   18/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_3', 'imt_class_4', 'imt_class_6', 'imt_class_all', 'weight_low']
+INFO:root:   1 0.5719937601789454
+INFO:root:0.5719937601789454	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_3', 'imt_class_4', 'imt_class_6', 'imt_class_all', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.029019 seconds
+INFO:hyperopt.tpe:TPE using 43/43 trials with best loss 0.538631
+INFO:root:   18/32 ['active', 'age', 'age_years', 'ap_error_swap', 'ap_hi', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_all', 'smoke', 'weight_low']
+INFO:root:   1 0.5354419376374175
+INFO:root:   2 0.5427456890402548
+INFO:root:   3 0.5425289911795989
+INFO:root:   4 0.5416868885508183
+INFO:root:   5 0.5337942146456841
+INFO:root:0.5392395442107547	['active', 'age', 'age_years', 'ap_error_swap', 'ap_hi', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_all', 'smoke', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.031245 seconds
+INFO:hyperopt.tpe:TPE using 44/44 trials with best loss 0.538631
+INFO:root:   14/32 ['age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_all', 'imt_class_3', 'imt_class_4', 'smoke', 'weight_low']
+INFO:root:   1 0.5376652354435905
+INFO:root:   2 0.544713117432775
+INFO:root:   3 0.545530237524759
+INFO:root:0.545530237524759	['age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_all', 'imt_class_3', 'imt_class_4', 'smoke', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.031252 seconds
+INFO:hyperopt.tpe:TPE using 45/45 trials with best loss 0.538631
+INFO:root:   15/32 ['active', 'age', 'alco', 'ap_hi', 'cholesterol_1', 'cholesterol_2', 'cholesterol_3', 'gender_female', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_6', 'imt_class_all', 'weight_low']
+INFO:root:   1 0.535632906336408
+INFO:root:   2 0.5435577270709294
+INFO:root:   3 0.5427608933013774
+INFO:root:   4 0.5421526478412392
+INFO:root:   5 0.5338787005903314
+INFO:root:0.539596575028057	['active', 'age', 'alco', 'ap_hi', 'cholesterol_1', 'cholesterol_2', 'cholesterol_3', 'gender_female', 'gluc_all', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_6', 'imt_class_all', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.031253 seconds
+INFO:hyperopt.tpe:TPE using 46/46 trials with best loss 0.538631
+INFO:root:   18/32 ['active', 'age', 'age_years', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_2', 'gluc_all', 'height', 'imt_class_1', 'imt_class_3', 'smoke', 'weight', 'weight_low']
+INFO:root:   1 0.5350399693867075
+INFO:root:   2 0.54212607231154
+INFO:root:   3 0.542808130869379
+INFO:root:   4 0.5409208184185283
+INFO:root:   5 0.5330042477723825
+INFO:root:0.5387798477517075	['active', 'age', 'age_years', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_2', 'gluc_all', 'height', 'imt_class_1', 'imt_class_3', 'smoke', 'weight', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.031252 seconds
+INFO:hyperopt.tpe:TPE using 47/47 trials with best loss 0.538631
+INFO:root:   17/32 ['active', 'age', 'age_years', 'alco', 'ap_lo', 'cholesterol_2', 'gender_female', 'gender_male', 'gluc_1', 'gluc_all', 'height_low', 'imt', 'imt_class_0', 'imt_class_4', 'imt_class_all', 'smoke', 'weight_low']
+INFO:root:   1 0.5824357503888588
+INFO:root:0.5824357503888588	['active', 'age', 'age_years', 'alco', 'ap_lo', 'cholesterol_2', 'gender_female', 'gender_male', 'gluc_1', 'gluc_all', 'height_low', 'imt', 'imt_class_0', 'imt_class_4', 'imt_class_all', 'smoke', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.031250 seconds
+INFO:hyperopt.tpe:TPE using 48/48 trials with best loss 0.538631
+INFO:root:   16/32 ['age', 'ap_error_swap', 'ap_hi', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_2', 'height', 'imt', 'imt_class_1', 'imt_class_3', 'imt_class_6', 'imt_class_all', 'weight', 'weight_low']
+INFO:root:   1 0.538031122095914
+INFO:root:   2 0.5451291977258034
+INFO:root:0.5451291977258034	['age', 'ap_error_swap', 'ap_hi', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_2', 'height', 'imt', 'imt_class_1', 'imt_class_3', 'imt_class_6', 'imt_class_all', 'weight', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.093754 seconds
+INFO:hyperopt.tpe:TPE using 49/49 trials with best loss 0.538631
+INFO:root:   16/32 ['active', 'age', 'age_years', 'alco', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'gender_female', 'gender_male', 'gluc_all', 'height_low', 'imt_class_3', 'imt_class_4', 'smoke', 'weight_low']
+INFO:root:   1 0.5364135374956611
+INFO:root:   2 0.5438149282187078
+INFO:root:   3 0.5442494255339446
+INFO:root:   4 0.5418732423925395
+INFO:root:   5 0.5347282736724915
+INFO:root:0.540215881462669	['active', 'age', 'age_years', 'alco', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'gender_female', 'gender_male', 'gluc_all', 'height_low', 'imt_class_3', 'imt_class_4', 'smoke', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.031252 seconds
+INFO:hyperopt.tpe:TPE using 50/50 trials with best loss 0.538631
+INFO:root:   23/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:root:   1 0.5345665173211214
+INFO:root:   2 0.5418904238474983
+INFO:root:   3 0.5425762394926018
+INFO:root:   4 0.540544101721022
+INFO:root:   5 0.5327022760923626
+INFO:root:0.5384559116949212	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031252 seconds
+INFO:hyperopt.tpe:TPE using 51/51 trials with best loss 0.538456
+INFO:root:   19/32 ['active', 'alco', 'ap_error_swap', 'ap_hi', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'height_low', 'imt', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'weight']
+INFO:root:   1 0.5515868636826574
+INFO:root:0.5515868636826574	['active', 'alco', 'ap_error_swap', 'ap_hi', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'height_low', 'imt', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.028019 seconds
+INFO:hyperopt.tpe:TPE using 52/52 trials with best loss 0.538456
+INFO:root:   18/32 ['active', 'age', 'age_years', 'ap_error', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:root:   1 0.5725334220191713
+INFO:root:0.5725334220191713	['active', 'age', 'age_years', 'ap_error', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.026016 seconds
+INFO:hyperopt.tpe:TPE using 53/53 trials with best loss 0.538456
+INFO:root:   21/32 ['age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_4', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:root:   1 0.5356122197006239
+INFO:root:   2 0.5428466931246886
+INFO:root:   3 0.5437983830844129
+INFO:root:   4 0.5410413514414052
+INFO:root:   5 0.533746376518382
+INFO:root:0.5394090047739025	['age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_4', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031251 seconds
+INFO:hyperopt.tpe:TPE using 54/54 trials with best loss 0.538456
+INFO:root:   23/32 ['active', 'age', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_hi', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'height_low', 'imt', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'weight']
+INFO:root:   1 0.5353262447748486
+INFO:root:   2 0.5431661730155634
+INFO:root:   3 0.5426867482502512
+INFO:root:   4 0.5419671951305188
+INFO:root:   5 0.5336622616218264
+INFO:root:0.5393617245586018	['active', 'age', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_hi', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'height_low', 'imt', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031252 seconds
+INFO:hyperopt.tpe:TPE using 55/55 trials with best loss 0.538456
+INFO:root:   18/32 ['active', 'ap_error', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_1', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:root:   1 0.5515057111775286
+INFO:root:0.5515057111775286	['active', 'ap_error', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_1', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.028018 seconds
+INFO:hyperopt.tpe:TPE using 56/56 trials with best loss 0.538456
+INFO:root:   23/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:root:   1 0.5346303861176949
+INFO:root:   2 0.5420217216433411
+INFO:root:   3 0.5426539572280404
+INFO:root:   4 0.5406751424832653
+INFO:root:   5 0.5326449675208552
+INFO:root:0.5385252349986394	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031252 seconds
+INFO:hyperopt.tpe:TPE using 57/57 trials with best loss 0.538456
+INFO:root:   21/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'height_low', 'imt_class_0', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'smoke', 'weight']
+INFO:root:   1 0.5720717770351321
+INFO:root:0.5720717770351321	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'height_low', 'imt_class_0', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031251 seconds
+INFO:hyperopt.tpe:TPE using 58/58 trials with best loss 0.538456
+INFO:root:   17/32 ['age_years', 'alco', 'ap_hi', 'cholesterol_2', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'weight']
+INFO:root:   1 0.5444320320992956
+INFO:root:   2 0.5516599124776804
+INFO:root:0.5516599124776804	['age_years', 'alco', 'ap_hi', 'cholesterol_2', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.015626 seconds
+INFO:hyperopt.tpe:TPE using 59/59 trials with best loss 0.538456
+INFO:root:   22/32 ['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:root:   1 0.5347089122298848
+INFO:root:   2 0.5420539048666803
+INFO:root:   3 0.5426771766696886
+INFO:root:   4 0.5407510376223738
+INFO:root:   5 0.5327037567117706
+INFO:root:0.5385789576200797	['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.039963 seconds
+INFO:hyperopt.tpe:TPE using 60/60 trials with best loss 0.538456
+INFO:root:   22/32 ['active', 'age', 'age_years', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'height_low', 'imt_class_0', 'imt_class_1', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:root:   1 0.5350575718528402
+INFO:root:   2 0.5420213909628248
+INFO:root:   3 0.5427273105136976
+INFO:root:   4 0.5409618644810235
+INFO:root:   5 0.5329705740384668
+INFO:root:0.5387477423697706	['active', 'age', 'age_years', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'height_low', 'imt_class_0', 'imt_class_1', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.029019 seconds
+INFO:hyperopt.tpe:TPE using 61/61 trials with best loss 0.538456
+INFO:root:   19/32 ['active', 'age_years', 'alco', 'ap_error_swap', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'smoke', 'weight']
+INFO:root:   1 0.5720792079243411
+INFO:root:0.5720792079243411	['active', 'age_years', 'alco', 'ap_error_swap', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031253 seconds
+INFO:hyperopt.tpe:TPE using 62/62 trials with best loss 0.538456
+INFO:root:   18/32 ['age', 'age_years', 'alco', 'ap_hi', 'cholesterol_2', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'weight']
+INFO:root:   1 0.5444236395556307
+INFO:root:   2 0.5516863893244779
+INFO:root:0.5516863893244779	['age', 'age_years', 'alco', 'ap_hi', 'cholesterol_2', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031251 seconds
+INFO:hyperopt.tpe:TPE using 63/63 trials with best loss 0.538456
+INFO:root:   23/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:root:   1 0.5346303861176949
+INFO:root:   2 0.5420217216433411
+INFO:root:   3 0.5426539572280404
+INFO:root:   4 0.5406751424832653
+INFO:root:   5 0.5326449675208552
+INFO:root:0.5385252349986394	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.015625 seconds
+INFO:hyperopt.tpe:TPE using 64/64 trials with best loss 0.538456
+INFO:root:   23/32 ['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'height_low', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:root:   1 0.5346303861176949
+INFO:root:   2 0.5420217216433411
+INFO:root:   3 0.5426539572280404
+INFO:root:   4 0.5406754653678181
+INFO:root:   5 0.5326450294154046
+INFO:root:0.5385253119544599	['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'height_low', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.029021 seconds
+INFO:hyperopt.tpe:TPE using 65/65 trials with best loss 0.538456
+INFO:root:   23/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:root:   1 0.5346303861176949
+INFO:root:   2 0.5420217216433411
+INFO:root:   3 0.5426539572280404
+INFO:root:   4 0.5406751424832653
+INFO:root:   5 0.5326449675208552
+INFO:root:0.5385252349986394	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031250 seconds
+INFO:hyperopt.tpe:TPE using 66/66 trials with best loss 0.538456
+INFO:root:   23/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:root:   1 0.5346303861176949
+INFO:root:   2 0.5420217216433411
+INFO:root:   3 0.5426539572280404
+INFO:root:   4 0.5406751424832653
+INFO:root:   5 0.5326449675208552
+INFO:root:0.5385252349986394	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.036024 seconds
+INFO:hyperopt.tpe:TPE using 67/67 trials with best loss 0.538456
+INFO:root:   23/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:root:   1 0.5346303861176949
+INFO:root:   2 0.5420217216433411
+INFO:root:   3 0.5426539572280404
+INFO:root:   4 0.5406751424832653
+INFO:root:   5 0.5326449675208552
+INFO:root:0.5385252349986394	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031251 seconds
+INFO:hyperopt.tpe:TPE using 68/68 trials with best loss 0.538456
+INFO:root:   23/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:root:   1 0.5346303861176949
+INFO:root:   2 0.5420217216433411
+INFO:root:   3 0.5426539572280404
+INFO:root:   4 0.5406751424832653
+INFO:root:   5 0.5326449675208552
+INFO:root:0.5385252349986394	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.028017 seconds
+INFO:hyperopt.tpe:TPE using 69/69 trials with best loss 0.538456
+INFO:root:   23/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:root:   1 0.5346303861176949
+INFO:root:   2 0.5420217216433411
+INFO:root:   3 0.5426539572280404
+INFO:root:   4 0.5406751424832653
+INFO:root:   5 0.5326449675208552
+INFO:root:0.5385252349986394	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031253 seconds
+INFO:hyperopt.tpe:TPE using 70/70 trials with best loss 0.538456
+INFO:root:   23/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:root:   1 0.5346303861176949
+INFO:root:   2 0.5420217216433411
+INFO:root:   3 0.5426539572280404
+INFO:root:   4 0.5406751424832653
+INFO:root:   5 0.5326449675208552
+INFO:root:0.5385252349986394	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.033829 seconds
+INFO:hyperopt.tpe:TPE using 71/71 trials with best loss 0.538456
+INFO:root:   23/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:root:   1 0.5346303861176949
+INFO:root:   2 0.5420217216433411
+INFO:root:   3 0.5426539572280404
+INFO:root:   4 0.5406751424832653
+INFO:root:   5 0.5326449675208552
+INFO:root:0.5385252349986394	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.078129 seconds
+INFO:hyperopt.tpe:TPE using 72/72 trials with best loss 0.538456
+INFO:root:   23/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:root:   1 0.5346303861176949
+INFO:root:   2 0.5420217216433411
+INFO:root:   3 0.5426539572280404
+INFO:root:   4 0.5406751424832653
+INFO:root:   5 0.5326449675208552
+INFO:root:0.5385252349986394	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.035022 seconds
+INFO:hyperopt.tpe:TPE using 73/73 trials with best loss 0.538456
+INFO:root:   23/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:root:   1 0.5346303861176949
+INFO:root:   2 0.5420217216433411
+INFO:root:   3 0.5426539572280404
+INFO:root:   4 0.5406751424832653
+INFO:root:   5 0.5326449675208552
+INFO:root:0.5385252349986394	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031251 seconds
+INFO:hyperopt.tpe:TPE using 74/74 trials with best loss 0.538456
+INFO:root:   23/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:root:   1 0.5346303861176949
+INFO:root:   2 0.5420217216433411
+INFO:root:   3 0.5426539572280404
+INFO:root:   4 0.5406751424832653
+INFO:root:   5 0.5326449675208552
+INFO:root:0.5385252349986394	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031252 seconds
+INFO:hyperopt.tpe:TPE using 75/75 trials with best loss 0.538456
+INFO:root:   23/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:root:   1 0.5346303861176949
+INFO:root:   2 0.5420217216433411
+INFO:root:   3 0.5426539572280404
+INFO:root:   4 0.5406751424832653
+INFO:root:   5 0.5326449675208552
+INFO:root:0.5385252349986394	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031250 seconds
+INFO:hyperopt.tpe:TPE using 76/76 trials with best loss 0.538456
+INFO:root:   20/32 ['active', 'age_years', 'alco', 'ap_error_swap', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:root:   1 0.5719534290181173
+INFO:root:0.5719534290181173	['active', 'age_years', 'alco', 'ap_error_swap', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031250 seconds
+INFO:hyperopt.tpe:TPE using 77/77 trials with best loss 0.538456
+INFO:root:   23/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_2', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:root:   1 0.534639611810383
+INFO:root:   2 0.5420329882527506
+INFO:root:   3 0.5426498691632675
+INFO:root:   4 0.5406556760606837
+INFO:root:   5 0.5326484194260798
+INFO:root:0.5385253129426328	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_2', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031252 seconds
+INFO:hyperopt.tpe:TPE using 78/78 trials with best loss 0.538456
+INFO:root:   21/32 ['age', 'age_years', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:root:   1 0.53615189118175
+INFO:root:   2 0.5429417041461189
+INFO:root:   3 0.5438916832179443
+INFO:root:   4 0.5413680086922387
+INFO:root:   5 0.5340230813995641
+INFO:root:0.5396752737275232	['age', 'age_years', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031250 seconds
+INFO:hyperopt.tpe:TPE using 79/79 trials with best loss 0.538456
+INFO:root:   21/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'smoke', 'weight']
+INFO:root:   1 0.5347042802608531
+INFO:root:   2 0.5421674381908731
+INFO:root:   3 0.5427588385513258
+INFO:root:   4 0.5406582190705167
+INFO:root:   5 0.532663523685528
+INFO:root:0.5385904599518193	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031253 seconds
+INFO:hyperopt.tpe:TPE using 80/80 trials with best loss 0.538456
+INFO:root:   19/32 ['active', 'age', 'age_years', 'alco', 'ap_hi', 'cholesterol_2', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_2', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'weight']
+INFO:root:   1 0.5434578935515071
+INFO:root:   2 0.5510053511029768
+INFO:root:0.5510053511029768	['active', 'age', 'age_years', 'alco', 'ap_hi', 'cholesterol_2', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_2', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.024676 seconds
+INFO:hyperopt.tpe:TPE using 81/81 trials with best loss 0.538456
+INFO:root:   21/32 ['active', 'age', 'alco', 'ap_error_swap', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:root:   1 0.5719923717024006
+INFO:root:0.5719923717024006	['active', 'age', 'alco', 'ap_error_swap', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.028017 seconds
+INFO:hyperopt.tpe:TPE using 82/82 trials with best loss 0.538456
+INFO:root:   20/32 ['age_years', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'height_low', 'imt_class_0', 'imt_class_1', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:root:   1 0.5361306783656552
+INFO:root:   2 0.5429410879447253
+INFO:root:   3 0.5438492116108705
+INFO:root:   4 0.5412306612623028
+INFO:root:   5 0.5340285794758421
+INFO:root:0.5396360437318791	['age_years', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'height_low', 'imt_class_0', 'imt_class_1', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031251 seconds
+INFO:hyperopt.tpe:TPE using 83/83 trials with best loss 0.538456
+INFO:root:   22/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:root:   1 0.5347059745743591
+INFO:root:   2 0.5420435954520654
+INFO:root:   3 0.5426718861818235
+INFO:root:   4 0.5407539475852973
+INFO:root:   5 0.5326981222614942
+INFO:root:0.5385747052110079	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gender_male', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt_class_0', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031248 seconds
+INFO:hyperopt.tpe:TPE using 84/84 trials with best loss 0.538456
+INFO:root:   19/32 ['active', 'age', 'age_years', 'alco', 'ap_hi', 'cholesterol_2', 'cholesterol_3', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_1', 'imt_class_2', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'weight']
+INFO:root:   1 0.5356445153218552
+INFO:root:   2 0.5432748442839042
+INFO:root:   3 0.5429966478671171
+INFO:root:   4 0.5422728135344811
+INFO:root:   5 0.533703190971433
+INFO:root:0.539578402395758	['active', 'age', 'age_years', 'alco', 'ap_hi', 'cholesterol_2', 'cholesterol_3', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_1', 'imt_class_2', 'imt_class_4', 'imt_class_5', 'imt_class_6', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.028019 seconds
+INFO:hyperopt.tpe:TPE using 85/85 trials with best loss 0.538456
+INFO:root:   21/32 ['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:root:   1 0.5345633794365603
+INFO:root:   2 0.5419689601263404
+INFO:root:   3 0.5426711613663743
+INFO:root:   4 0.5406356475836777
+INFO:root:   5 0.5327225733233781
+INFO:root:0.5385123443672662	['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.030020 seconds
+INFO:hyperopt.tpe:TPE using 86/86 trials with best loss 0.538456
+INFO:root:   18/32 ['active', 'ap_error_swap', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_1', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:root:   1 0.5915671659799908
+INFO:root:0.5915671659799908	['active', 'ap_error_swap', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_1', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031252 seconds
+INFO:hyperopt.tpe:TPE using 87/87 trials with best loss 0.538456
+INFO:root:   21/32 ['age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'height_low', 'imt', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:root:   1 0.5356107251083424
+INFO:root:   2 0.5428448284976679
+INFO:root:   3 0.5438011941507753
+INFO:root:   4 0.5410462737827944
+INFO:root:   5 0.5337502702759144
+INFO:root:0.5394106583630989	['age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'height_low', 'imt', 'imt_class_0', 'imt_class_1', 'imt_class_4', 'imt_class_6', 'imt_class_all', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031251 seconds
+INFO:hyperopt.tpe:TPE using 88/88 trials with best loss 0.538456
+INFO:root:   20/32 ['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:root:   1 0.534561488965675
+INFO:root:   2 0.541885628620365
+INFO:root:   3 0.542650436840432
+INFO:root:   4 0.5406342469756902
+INFO:root:   5 0.5328137803384765
+INFO:root:0.5385091163481277	['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.078128 seconds
+INFO:hyperopt.tpe:TPE using 89/89 trials with best loss 0.538456
+INFO:root:   16/32 ['active', 'age', 'alco', 'ap_hi', 'cholesterol_2', 'cholesterol_3', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'weight']
+INFO:root:   1 0.5356338099266734
+INFO:root:   2 0.543314475637791
+INFO:root:   3 0.5430594336627679
+INFO:root:   4 0.5423167958091658
+INFO:root:   5 0.533703443094745
+INFO:root:0.5396055916262286	['active', 'age', 'alco', 'ap_hi', 'cholesterol_2', 'cholesterol_3', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.028696 seconds
+INFO:hyperopt.tpe:TPE using 90/90 trials with best loss 0.538456
+INFO:root:   19/32 ['active', 'age', 'alco', 'ap_error_swap', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:root:   1 0.5718174456626397
+INFO:root:0.5718174456626397	['active', 'age', 'alco', 'ap_error_swap', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.032016 seconds
+INFO:hyperopt.tpe:TPE using 91/91 trials with best loss 0.538456
+INFO:root:   17/32 ['ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'height_low', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_6', 'smoke', 'weight']
+INFO:root:   1 0.5527465436801177
+INFO:root:0.5527465436801177	['ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'height_low', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_6', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.028018 seconds
+INFO:hyperopt.tpe:TPE using 92/92 trials with best loss 0.538456
+INFO:root:   20/32 ['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:root:   1 0.534561488965675
+INFO:root:   2 0.541885628620365
+INFO:root:   3 0.542650436840432
+INFO:root:   4 0.5406342469756902
+INFO:root:   5 0.5328137803384765
+INFO:root:0.5385091163481277	['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031252 seconds
+INFO:hyperopt.tpe:TPE using 93/93 trials with best loss 0.538456
+INFO:root:   17/32 ['active', 'age', 'alco', 'ap_error', 'ap_hi', 'cholesterol_2', 'cholesterol_3', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'weight']
+INFO:root:   1 0.5356654684275133
+INFO:root:   2 0.5432420366532765
+INFO:root:   3 0.543068842494011
+INFO:root:   4 0.5421756217008254
+INFO:root:   5 0.5337562111623642
+INFO:root:0.539581636087598	['active', 'age', 'alco', 'ap_error', 'ap_hi', 'cholesterol_2', 'cholesterol_3', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.032021 seconds
+INFO:hyperopt.tpe:TPE using 94/94 trials with best loss 0.538456
+INFO:root:   20/32 ['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:root:   1 0.534561488965675
+INFO:root:   2 0.541885628620365
+INFO:root:   3 0.542650436840432
+INFO:root:   4 0.5406342469756902
+INFO:root:   5 0.5328137803384765
+INFO:root:0.5385091163481277	['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031252 seconds
+INFO:hyperopt.tpe:TPE using 95/95 trials with best loss 0.538456
+INFO:root:   19/32 ['active', 'age', 'alco', 'ap_error_swap', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'height_low', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_6', 'smoke', 'weight']
+INFO:root:   1 0.571800259156278
+INFO:root:0.571800259156278	['active', 'age', 'alco', 'ap_error_swap', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'height_low', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_6', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031252 seconds
+INFO:hyperopt.tpe:TPE using 96/96 trials with best loss 0.538456
+INFO:root:   17/32 ['ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:root:   1 0.5527536655665952
+INFO:root:0.5527536655665952	['ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031252 seconds
+INFO:hyperopt.tpe:TPE using 97/97 trials with best loss 0.538456
+INFO:root:   21/32 ['active', 'age', 'alco', 'ap_error', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:root:   1 0.5345765780885953
+INFO:root:   2 0.5419622934487137
+INFO:root:   3 0.5427314578292853
+INFO:root:   4 0.5407037527879622
+INFO:root:   5 0.5327914499340296
+INFO:root:0.5385531064177173	['active', 'age', 'alco', 'ap_error', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031251 seconds
+INFO:hyperopt.tpe:TPE using 98/98 trials with best loss 0.538456
+INFO:root:   16/32 ['active', 'age', 'alco', 'ap_hi', 'cholesterol_2', 'cholesterol_3', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'weight']
+INFO:root:   1 0.5356338099266734
+INFO:root:   2 0.543314475637791
+INFO:root:   3 0.5430594336627679
+INFO:root:   4 0.5423167958091658
+INFO:root:   5 0.533703443094745
+INFO:root:0.5396055916262286	['active', 'age', 'alco', 'ap_hi', 'cholesterol_2', 'cholesterol_3', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031250 seconds
+INFO:hyperopt.tpe:TPE using 99/99 trials with best loss 0.538456
+INFO:root:   20/32 ['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:root:   1 0.534561488965675
+INFO:root:   2 0.541885628620365
+INFO:root:   3 0.542650436840432
+INFO:root:   4 0.5406342469756902
+INFO:root:   5 0.5328137803384765
+INFO:root:0.5385091163481277	['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.078129 seconds
+INFO:hyperopt.tpe:TPE using 100/100 trials with best loss 0.538456
+INFO:root:   19/32 ['active', 'age', 'alco', 'ap_error_swap', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'height_low', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_6', 'smoke', 'weight']
+INFO:root:   1 0.571800259156278
+INFO:root:0.571800259156278	['active', 'age', 'alco', 'ap_error_swap', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'height_low', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_6', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031252 seconds
+INFO:hyperopt.tpe:TPE using 101/101 trials with best loss 0.538456
+INFO:root:   18/32 ['ap_error', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:root:   1 0.5527730707990395
+INFO:root:0.5527730707990395	['ap_error', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.026018 seconds
+INFO:hyperopt.tpe:TPE using 102/102 trials with best loss 0.538456
+INFO:root:   20/32 ['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:root:   1 0.534561488965675
+INFO:root:   2 0.541885628620365
+INFO:root:   3 0.542650436840432
+INFO:root:   4 0.5406342469756902
+INFO:root:   5 0.5328137803384765
+INFO:root:0.5385091163481277	['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.030019 seconds
+INFO:hyperopt.tpe:TPE using 103/103 trials with best loss 0.538456
+INFO:root:   16/32 ['active', 'age', 'alco', 'ap_hi', 'cholesterol_2', 'cholesterol_3', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'weight']
+INFO:root:   1 0.5356338099266734
+INFO:root:   2 0.543314475637791
+INFO:root:   3 0.5430594336627679
+INFO:root:   4 0.5423167958091658
+INFO:root:   5 0.533703443094745
+INFO:root:0.5396055916262286	['active', 'age', 'alco', 'ap_hi', 'cholesterol_2', 'cholesterol_3', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.028018 seconds
+INFO:hyperopt.tpe:TPE using 104/104 trials with best loss 0.538456
+INFO:root:   20/32 ['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:root:   1 0.534561488965675
+INFO:root:   2 0.541885628620365
+INFO:root:   3 0.542650436840432
+INFO:root:   4 0.5406342469756902
+INFO:root:   5 0.5328137803384765
+INFO:root:0.5385091163481277	['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031019 seconds
+INFO:hyperopt.tpe:TPE using 105/105 trials with best loss 0.538456
+INFO:root:   21/32 ['active', 'age', 'alco', 'ap_error', 'ap_error_swap', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'height_low', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:root:   1 0.5720154710418974
+INFO:root:0.5720154710418974	['active', 'age', 'alco', 'ap_error', 'ap_error_swap', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'height_low', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031252 seconds
+INFO:hyperopt.tpe:TPE using 106/106 trials with best loss 0.538456
+INFO:root:   16/32 ['ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_6', 'smoke', 'weight']
+INFO:root:   1 0.5527023634425455
+INFO:root:0.5527023634425455	['ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_6', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.015625 seconds
+INFO:hyperopt.tpe:TPE using 107/107 trials with best loss 0.538456
+INFO:root:   20/32 ['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:root:   1 0.534561488965675
+INFO:root:   2 0.541885628620365
+INFO:root:   3 0.542650436840432
+INFO:root:   4 0.5406342469756902
+INFO:root:   5 0.5328137803384765
+INFO:root:0.5385091163481277	['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031251 seconds
+INFO:hyperopt.tpe:TPE using 108/108 trials with best loss 0.538456
+INFO:root:   12/32 ['active', 'age', 'alco', 'ap_hi', 'cholesterol_1', 'cholesterol_3', 'gluc_3', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'weight']
+INFO:root:   1 0.535794088138368
+INFO:root:   2 0.5436211573950677
+INFO:root:   3 0.5429686000021835
+INFO:root:   4 0.5424462163197642
+INFO:root:   5 0.5337168376973507
+INFO:root:0.5397093799105469	['active', 'age', 'alco', 'ap_hi', 'cholesterol_1', 'cholesterol_3', 'gluc_3', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.015625 seconds
+INFO:hyperopt.tpe:TPE using 109/109 trials with best loss 0.538456
+INFO:root:   21/32 ['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_3', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:root:   1 0.5345834055899606
+INFO:root:   2 0.541955058890198
+INFO:root:   3 0.5427350633190275
+INFO:root:   4 0.5407122889308806
+INFO:root:   5 0.5327923579006891
+INFO:root:0.5385556349261511	['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_3', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031250 seconds
+INFO:hyperopt.tpe:TPE using 110/110 trials with best loss 0.538456
+INFO:root:   20/32 ['active', 'age', 'alco', 'ap_error', 'ap_error_swap', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'height_low', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke']
+INFO:root:   1 0.5720014851866182
+INFO:root:0.5720014851866182	['active', 'age', 'alco', 'ap_error', 'ap_error_swap', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'height_low', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke']
+INFO:hyperopt.tpe:tpe_transform took 0.015627 seconds
+INFO:hyperopt.tpe:TPE using 111/111 trials with best loss 0.538456
+INFO:root:   17/32 ['active', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'gluc_all', 'height', 'imt', 'imt_class_2', 'imt_class_6', 'smoke', 'weight']
+INFO:root:   1 0.551489579986879
+INFO:root:0.551489579986879	['active', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'gluc_all', 'height', 'imt', 'imt_class_2', 'imt_class_6', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.078130 seconds
+INFO:hyperopt.tpe:TPE using 112/112 trials with best loss 0.538456
+INFO:root:   15/32 ['age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'smoke', 'weight', 'weight_low']
+INFO:root:   1 0.5367592424333948
+INFO:root:   2 0.5439933146660495
+INFO:root:   3 0.5450339358542292
+INFO:root:0.5450339358542292	['age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'smoke', 'weight', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.031251 seconds
+INFO:hyperopt.tpe:TPE using 113/113 trials with best loss 0.538456
+INFO:root:   18/32 ['active', 'age', 'alco', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_3', 'imt_class_4', 'imt_class_6', 'weight']
+INFO:root:   1 0.5348171885480761
+INFO:root:   2 0.5422388164600584
+INFO:root:   3 0.5430500996758119
+INFO:root:   4 0.5411041585125754
+INFO:root:   5 0.5331141269593975
+INFO:root:0.5388648780311839	['active', 'age', 'alco', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_3', 'imt_class_4', 'imt_class_6', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031251 seconds
+INFO:hyperopt.tpe:TPE using 114/114 trials with best loss 0.538456
+INFO:root:   18/32 ['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke']
+INFO:root:   1 0.5351658264226757
+INFO:root:   2 0.5428560703004605
+INFO:root:   3 0.5425597803271611
+INFO:root:   4 0.5415781706455873
+INFO:root:   5 0.5337000949973516
+INFO:root:0.5391719885386473	['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke']
+INFO:hyperopt.tpe:tpe_transform took 0.029018 seconds
+INFO:hyperopt.tpe:TPE using 115/115 trials with best loss 0.538456
+INFO:root:   21/32 ['active', 'age', 'alco', 'ap_error', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'gluc_all', 'height', 'imt', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:root:   1 0.5345815198204644
+INFO:root:   2 0.5419622934487137
+INFO:root:   3 0.542730696864813
+INFO:root:   4 0.5407059017575584
+INFO:root:   5 0.5327882815609987
+INFO:root:0.5385537386905097	['active', 'age', 'alco', 'ap_error', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'gluc_all', 'height', 'imt', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.035023 seconds
+INFO:hyperopt.tpe:TPE using 116/116 trials with best loss 0.538456
+INFO:root:   15/32 ['active', 'ap_error_swap', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gluc_2', 'height', 'height_low', 'imt', 'imt_class_0', 'imt_class_2', 'smoke', 'weight', 'weight_low']
+INFO:root:   1 0.592969630923225
+INFO:root:0.592969630923225	['active', 'ap_error_swap', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gluc_2', 'height', 'height_low', 'imt', 'imt_class_0', 'imt_class_2', 'smoke', 'weight', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.026016 seconds
+INFO:hyperopt.tpe:TPE using 117/117 trials with best loss 0.538456
+INFO:root:   18/32 ['age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_3', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_3', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:root:   1 0.5358093386370536
+INFO:root:   2 0.5429500589746846
+INFO:root:   3 0.5438040471546979
+INFO:root:   4 0.5411975943948949
+INFO:root:   5 0.5338398355942338
+INFO:root:0.5395201749511129	['age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_3', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_3', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031251 seconds
+INFO:hyperopt.tpe:TPE using 118/118 trials with best loss 0.538456
+INFO:root:   19/32 ['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke']
+INFO:root:   1 0.534588224903997
+INFO:root:   2 0.5418288057680349
+INFO:root:   3 0.5426476288727898
+INFO:root:   4 0.5405856282728315
+INFO:root:   5 0.5329452317910149
+INFO:root:0.5385191039217336	['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke']
+INFO:hyperopt.tpe:tpe_transform took 0.031251 seconds
+INFO:hyperopt.tpe:TPE using 119/119 trials with best loss 0.538456
+INFO:root:   16/32 ['active', 'age', 'alco', 'ap_hi', 'cholesterol_2', 'cholesterol_3', 'gluc_1', 'gluc_2', 'gluc_3', 'gluc_all', 'height', 'imt', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'weight']
+INFO:root:   1 0.5356294165285993
+INFO:root:   2 0.543314475637791
+INFO:root:   3 0.5430595257844791
+INFO:root:   4 0.5423166344729187
+INFO:root:   5 0.5337046291743036
+INFO:root:0.5396049363196183	['active', 'age', 'alco', 'ap_hi', 'cholesterol_2', 'cholesterol_3', 'gluc_1', 'gluc_2', 'gluc_3', 'gluc_all', 'height', 'imt', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031251 seconds
+INFO:hyperopt.tpe:TPE using 120/120 trials with best loss 0.538456
+INFO:root:   19/32 ['active', 'age', 'alco', 'ap_error', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'smoke', 'weight']
+INFO:root:   1 0.5347548878910303
+INFO:root:   2 0.5419926355638293
+INFO:root:   3 0.5428170106873372
+INFO:root:   4 0.5408884594736844
+INFO:root:   5 0.5329374892747473
+INFO:root:0.5386780965781257	['active', 'age', 'alco', 'ap_error', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.032021 seconds
+INFO:hyperopt.tpe:TPE using 121/121 trials with best loss 0.538456
+INFO:root:   16/32 ['active', 'alco', 'ap_error_swap', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gluc_3', 'height_low', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_6', 'smoke', 'weight', 'weight_low']
+INFO:root:   1 0.5913567376457715
+INFO:root:0.5913567376457715	['active', 'alco', 'ap_error_swap', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gluc_3', 'height_low', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_6', 'smoke', 'weight', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.015627 seconds
+INFO:hyperopt.tpe:TPE using 122/122 trials with best loss 0.538456
+INFO:root:   18/32 ['age', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_3', 'imt_class_4', 'imt_class_6', 'smoke']
+INFO:root:   1 0.5360860481742656
+INFO:root:   2 0.5426175771994808
+INFO:root:   3 0.5439023743006391
+INFO:root:   4 0.5411941697552378
+INFO:root:   5 0.5343712149919442
+INFO:root:0.5396342768843135	['age', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_3', 'imt_class_4', 'imt_class_6', 'smoke']
+INFO:hyperopt.tpe:tpe_transform took 0.078128 seconds
+INFO:hyperopt.tpe:TPE using 123/123 trials with best loss 0.538456
+INFO:root:   20/32 ['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:root:   1 0.534561488965675
+INFO:root:   2 0.541885628620365
+INFO:root:   3 0.542650436840432
+INFO:root:   4 0.5406342469756902
+INFO:root:   5 0.5328137803384765
+INFO:root:0.5385091163481277	['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031251 seconds
+INFO:hyperopt.tpe:TPE using 124/124 trials with best loss 0.538456
+INFO:root:   16/32 ['active', 'age', 'alco', 'ap_hi', 'cholesterol_2', 'cholesterol_3', 'gluc_1', 'gluc_2', 'gluc_3', 'gluc_all', 'height', 'imt', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'weight']
+INFO:root:   1 0.5356294165285993
+INFO:root:   2 0.543314475637791
+INFO:root:   3 0.5430595257844791
+INFO:root:   4 0.5423166344729187
+INFO:root:   5 0.5337046291743036
+INFO:root:0.5396049363196183	['active', 'age', 'alco', 'ap_hi', 'cholesterol_2', 'cholesterol_3', 'gluc_1', 'gluc_2', 'gluc_3', 'gluc_all', 'height', 'imt', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031251 seconds
+INFO:hyperopt.tpe:TPE using 125/125 trials with best loss 0.538456
+INFO:root:   19/32 ['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'smoke', 'weight', 'weight_low']
+INFO:root:   1 0.5347704342369217
+INFO:root:   2 0.5419715837059236
+INFO:root:   3 0.542849303005058
+INFO:root:   4 0.5409163075879765
+INFO:root:   5 0.5329460673184173
+INFO:root:0.5386907391708594	['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'smoke', 'weight', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.031251 seconds
+INFO:hyperopt.tpe:TPE using 126/126 trials with best loss 0.538456
+INFO:root:   18/32 ['active', 'age', 'alco', 'ap_error', 'ap_error_swap', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_3', 'height_low', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_3', 'imt_class_6', 'smoke', 'weight']
+INFO:root:   1 0.5721172701237494
+INFO:root:0.5721172701237494	['active', 'age', 'alco', 'ap_error', 'ap_error_swap', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_3', 'height_low', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_3', 'imt_class_6', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.048094 seconds
+INFO:hyperopt.tpe:TPE using 127/127 trials with best loss 0.538456
+INFO:root:   16/32 ['ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke']
+INFO:root:   1 0.5526578944873834
+INFO:root:0.5526578944873834	['ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke']
+INFO:hyperopt.tpe:tpe_transform took 0.015623 seconds
+INFO:hyperopt.tpe:TPE using 128/128 trials with best loss 0.538456
+INFO:root:   21/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'gluc_all', 'height', 'imt', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:root:   1 0.5345795656867413
+INFO:root:   2 0.5419635371133597
+INFO:root:   3 0.5427370548324733
+INFO:root:   4 0.5407092582373961
+INFO:root:   5 0.5327924033155932
+INFO:root:0.5385563638371127	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'gluc_all', 'height', 'imt', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031250 seconds
+INFO:hyperopt.tpe:TPE using 129/129 trials with best loss 0.538456
+INFO:root:   16/32 ['active', 'age', 'alco', 'ap_hi', 'cholesterol_2', 'cholesterol_3', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'weight']
+INFO:root:   1 0.5356338099266734
+INFO:root:   2 0.543314475637791
+INFO:root:   3 0.5430594336627679
+INFO:root:   4 0.5423167958091658
+INFO:root:   5 0.533703443094745
+INFO:root:0.5396055916262286	['active', 'age', 'alco', 'ap_hi', 'cholesterol_2', 'cholesterol_3', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.042548 seconds
+INFO:hyperopt.tpe:TPE using 130/130 trials with best loss 0.538456
+INFO:root:   19/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'smoke', 'weight', 'weight_low']
+INFO:root:   1 0.5347704342369217
+INFO:root:   2 0.5419717536513495
+INFO:root:   3 0.542849303005058
+INFO:root:   4 0.5409163075879765
+INFO:root:   5 0.5329460673184173
+INFO:root:0.5386907731599446	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'height', 'imt', 'imt_class_0', 'imt_class_2', 'imt_class_4', 'smoke', 'weight', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.031251 seconds
+INFO:hyperopt.tpe:TPE using 131/131 trials with best loss 0.538456
+INFO:root:   19/32 ['active', 'age', 'alco', 'ap_error', 'ap_error_swap', 'ap_lo', 'cholesterol_1', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_3', 'height_low', 'imt', 'imt_class_0', 'imt_class_3', 'imt_class_6', 'smoke', 'weight']
+INFO:root:   1 0.5719458020750312
+INFO:root:0.5719458020750312	['active', 'age', 'alco', 'ap_error', 'ap_error_swap', 'ap_lo', 'cholesterol_1', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_3', 'height_low', 'imt', 'imt_class_0', 'imt_class_3', 'imt_class_6', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.015625 seconds
+INFO:hyperopt.tpe:TPE using 132/132 trials with best loss 0.538456
+INFO:root:   19/32 ['age_years', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_1', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'imt_class_all', 'smoke']
+INFO:root:   1 0.5361321871878285
+INFO:root:   2 0.5426954847554627
+INFO:root:   3 0.5439186865876872
+INFO:root:   4 0.5412624192599945
+INFO:root:   5 0.5343024964096225
+INFO:root:0.5396622548401191	['age_years', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gluc_1', 'gluc_2', 'gluc_3', 'height', 'imt', 'imt_class_0', 'imt_class_1', 'imt_class_2', 'imt_class_4', 'imt_class_6', 'imt_class_all', 'smoke']
+INFO:hyperopt.tpe:tpe_transform took 0.031250 seconds
+INFO:hyperopt.tpe:TPE using 133/133 trials with best loss 0.538456
+INFO:root:   20/32 ['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_3', 'gluc_all', 'height', 'imt', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:root:   1 0.5345170977187628
+INFO:root:   2 0.5418598648339823
+INFO:root:   3 0.5425648167697964
+INFO:root:   4 0.5405466122691095
+INFO:root:   5 0.5327253805767129
+INFO:root:0.5384427544336728	['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_3', 'gluc_all', 'height', 'imt', 'imt_class_4', 'imt_class_6', 'smoke', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.031252 seconds
+INFO:hyperopt.tpe:TPE using 134/134 trials with best loss 0.538443
+INFO:root:   19/32 ['active', 'age', 'age_years', 'alco', 'ap_hi', 'cholesterol_2', 'cholesterol_3', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_3', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_6', 'imt_class_all', 'weight']
+INFO:root:   1 0.5355621499088531
+INFO:root:   2 0.5432396064763505
+INFO:root:   3 0.5428417628650575
+INFO:root:   4 0.5421774136425718
+INFO:root:   5 0.5335210518121976
+INFO:root:0.5394683969410061	['active', 'age', 'age_years', 'alco', 'ap_hi', 'cholesterol_2', 'cholesterol_3', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_3', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_6', 'imt_class_all', 'weight']
+INFO:hyperopt.tpe:tpe_transform took 0.029086 seconds
+INFO:hyperopt.tpe:TPE using 135/135 trials with best loss 0.538443
+INFO:root:   19/32 ['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_4', 'smoke', 'weight', 'weight_low']
+INFO:root:   1 0.5345871409311762
+INFO:root:   2 0.5419464582624576
+INFO:root:   3 0.5425423540478267
+INFO:root:   4 0.5406439674170906
+INFO:root:   5 0.5327259653795104
+INFO:root:0.5384891772076124	['active', 'age', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_4', 'smoke', 'weight', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.031252 seconds
+INFO:hyperopt.tpe:TPE using 136/136 trials with best loss 0.538443
+INFO:root:   20/32 ['active', 'age', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_all', 'height_low', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:root:   1 0.5718420600653986
+INFO:root:0.5718420600653986	['active', 'age', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_all', 'height_low', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.032360 seconds
+INFO:hyperopt.tpe:TPE using 137/137 trials with best loss 0.538443
+INFO:root:   16/32 ['ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_3', 'imt_class_4', 'smoke', 'weight_low']
+INFO:root:   1 0.5525690226127574
+INFO:root:0.5525690226127574	['ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_3', 'imt_class_4', 'smoke', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.031253 seconds
+INFO:hyperopt.tpe:TPE using 138/138 trials with best loss 0.538443
+INFO:root:   21/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:root:   1 0.5345516718143636
+INFO:root:   2 0.5419594738631038
+INFO:root:   3 0.5426541005825967
+INFO:root:   4 0.5406127932083881
+INFO:root:   5 0.5327053830635544
+INFO:root:0.5384966845064014	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.031252 seconds
+INFO:hyperopt.tpe:TPE using 139/139 trials with best loss 0.538443
+INFO:root:   15/32 ['active', 'age', 'alco', 'ap_hi', 'cholesterol_2', 'cholesterol_3', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_4', 'weight', 'weight_low']
+INFO:root:   1 0.5355118326763725
+INFO:root:   2 0.5431693821659755
+INFO:root:   3 0.5428652263240171
+INFO:root:   4 0.5421491501277054
+INFO:root:   5 0.5335115477251766
+INFO:root:0.5394414278038494	['active', 'age', 'alco', 'ap_hi', 'cholesterol_2', 'cholesterol_3', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_4', 'weight', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.015623 seconds
+INFO:hyperopt.tpe:TPE using 140/140 trials with best loss 0.538443
+INFO:root:   22/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:root:   1 0.5345945280980228
+INFO:root:   2 0.5419202735968645
+INFO:root:   3 0.5425887495767284
+INFO:root:   4 0.5406352761716064
+INFO:root:   5 0.5326955988927475
+INFO:root:0.5384868852671939	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.033298 seconds
+INFO:hyperopt.tpe:TPE using 141/141 trials with best loss 0.538443
+INFO:root:   20/32 ['active', 'age', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_all', 'height_low', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:root:   1 0.5718420600653986
+INFO:root:0.5718420600653986	['active', 'age', 'age_years', 'alco', 'ap_error', 'ap_error_swap', 'ap_lo', 'cholesterol_1', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_all', 'height_low', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.017112 seconds
+INFO:hyperopt.tpe:TPE using 142/142 trials with best loss 0.538443
+INFO:root:   20/32 ['active', 'age_years', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_3', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:root:   1 0.5348852467857548
+INFO:root:   2 0.5418654177380915
+INFO:root:   3 0.5426311803614678
+INFO:root:   4 0.5407703759289534
+INFO:root:   5 0.5330060271455679
+INFO:root:0.5386316495919671	['active', 'age_years', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_3', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.031252 seconds
+INFO:hyperopt.tpe:TPE using 143/143 trials with best loss 0.538443
+INFO:root:   20/32 ['age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight_low']
+INFO:root:   1 0.5356015089166034
+INFO:root:   2 0.5426514105199026
+INFO:root:   3 0.5437048054849384
+INFO:root:   4 0.540852419409194
+INFO:root:   5 0.5339679584124422
+INFO:root:0.5393556205486162	['age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.031250 seconds
+INFO:hyperopt.tpe:TPE using 144/144 trials with best loss 0.538443
+INFO:root:   18/32 ['active', 'age', 'age_years', 'alco', 'ap_hi', 'cholesterol_2', 'cholesterol_3', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'weight', 'weight_low']
+INFO:root:   1 0.5355703895310684
+INFO:root:   2 0.5432314047098008
+INFO:root:   3 0.5428558403810527
+INFO:root:   4 0.5420980352152204
+INFO:root:   5 0.5336101964462842
+INFO:root:0.5394731732566853	['active', 'age', 'age_years', 'alco', 'ap_hi', 'cholesterol_2', 'cholesterol_3', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'weight', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.033674 seconds
+INFO:hyperopt.tpe:TPE using 145/145 trials with best loss 0.538443
+INFO:root:   22/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:root:   1 0.5345945280980228
+INFO:root:   2 0.5419202735968645
+INFO:root:   3 0.5425887495767284
+INFO:root:   4 0.5406352761716064
+INFO:root:   5 0.5326955988927475
+INFO:root:0.5384868852671939	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.078201 seconds
+INFO:hyperopt.tpe:TPE using 146/146 trials with best loss 0.538443
+INFO:root:   22/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:root:   1 0.5345945280980228
+INFO:root:   2 0.5419202735968645
+INFO:root:   3 0.5425887495767284
+INFO:root:   4 0.5406352761716064
+INFO:root:   5 0.5326955988927475
+INFO:root:0.5384868852671939	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.031250 seconds
+INFO:hyperopt.tpe:TPE using 147/147 trials with best loss 0.538443
+INFO:root:   22/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:root:   1 0.5345945280980228
+INFO:root:   2 0.5419202735968645
+INFO:root:   3 0.5425887495767284
+INFO:root:   4 0.5406352761716064
+INFO:root:   5 0.5326955988927475
+INFO:root:0.5384868852671939	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.031251 seconds
+INFO:hyperopt.tpe:TPE using 148/148 trials with best loss 0.538443
+INFO:root:   22/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:root:   1 0.5345945280980228
+INFO:root:   2 0.5419202735968645
+INFO:root:   3 0.5425887495767284
+INFO:root:   4 0.5406352761716064
+INFO:root:   5 0.5326955988927475
+INFO:root:0.5384868852671939	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.015628 seconds
+INFO:hyperopt.tpe:TPE using 149/149 trials with best loss 0.538443
+INFO:root:   22/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:root:   1 0.5345945280980228
+INFO:root:   2 0.5419202735968645
+INFO:root:   3 0.5425887495767284
+INFO:root:   4 0.5406352761716064
+INFO:root:   5 0.5326955988927475
+INFO:root:0.5384868852671939	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.033023 seconds
+INFO:hyperopt.tpe:TPE using 150/150 trials with best loss 0.538443
+INFO:root:   22/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:root:   1 0.5345945280980228
+INFO:root:   2 0.5419202735968645
+INFO:root:   3 0.5425887495767284
+INFO:root:   4 0.5406352761716064
+INFO:root:   5 0.5326955988927475
+INFO:root:0.5384868852671939	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.031251 seconds
+INFO:hyperopt.tpe:TPE using 151/151 trials with best loss 0.538443
+INFO:root:   22/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:root:   1 0.5345945280980228
+INFO:root:   2 0.5419202735968645
+INFO:root:   3 0.5425887495767284
+INFO:root:   4 0.5406352761716064
+INFO:root:   5 0.5326955988927475
+INFO:root:0.5384868852671939	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.031251 seconds
+INFO:hyperopt.tpe:TPE using 152/152 trials with best loss 0.538443
+INFO:root:   22/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:root:   1 0.5345945280980228
+INFO:root:   2 0.5419202735968645
+INFO:root:   3 0.5425887495767284
+INFO:root:   4 0.5406352761716064
+INFO:root:   5 0.5326955988927475
+INFO:root:0.5384868852671939	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.031021 seconds
+INFO:hyperopt.tpe:TPE using 153/153 trials with best loss 0.538443
+INFO:root:   22/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:root:   1 0.5345945280980228
+INFO:root:   2 0.5419202735968645
+INFO:root:   3 0.5425887495767284
+INFO:root:   4 0.5406352761716064
+INFO:root:   5 0.5326955988927475
+INFO:root:0.5384868852671939	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.031253 seconds
+INFO:hyperopt.tpe:TPE using 154/154 trials with best loss 0.538443
+INFO:root:   22/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:root:   1 0.5345945280980228
+INFO:root:   2 0.5419202735968645
+INFO:root:   3 0.5425887495767284
+INFO:root:   4 0.5406352761716064
+INFO:root:   5 0.5326955988927475
+INFO:root:0.5384868852671939	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.033022 seconds
+INFO:hyperopt.tpe:TPE using 155/155 trials with best loss 0.538443
+INFO:root:   22/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:root:   1 0.5345945280980228
+INFO:root:   2 0.5419202735968645
+INFO:root:   3 0.5425887495767284
+INFO:root:   4 0.5406352761716064
+INFO:root:   5 0.5326955988927475
+INFO:root:0.5384868852671939	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.031020 seconds
+INFO:hyperopt.tpe:TPE using 156/156 trials with best loss 0.538443
+INFO:root:   22/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:root:   1 0.5345945280980228
+INFO:root:   2 0.5419202735968645
+INFO:root:   3 0.5425887495767284
+INFO:root:   4 0.5406352761716064
+INFO:root:   5 0.5326955988927475
+INFO:root:0.5384868852671939	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.031250 seconds
+INFO:hyperopt.tpe:TPE using 157/157 trials with best loss 0.538443
+INFO:root:   22/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:root:   1 0.5345945280980228
+INFO:root:   2 0.5419202735968645
+INFO:root:   3 0.5425887495767284
+INFO:root:   4 0.5406352761716064
+INFO:root:   5 0.5326955988927475
+INFO:root:0.5384868852671939	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.031252 seconds
+INFO:hyperopt.tpe:TPE using 158/158 trials with best loss 0.538443
+INFO:root:   22/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:root:   1 0.5345945280980228
+INFO:root:   2 0.5419202735968645
+INFO:root:   3 0.5425887495767284
+INFO:root:   4 0.5406352761716064
+INFO:root:   5 0.5326955988927475
+INFO:root:0.5384868852671939	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.032022 seconds
+INFO:hyperopt.tpe:TPE using 159/159 trials with best loss 0.538443
+INFO:root:   22/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:root:   1 0.5345945280980228
+INFO:root:   2 0.5419202735968645
+INFO:root:   3 0.5425887495767284
+INFO:root:   4 0.5406352761716064
+INFO:root:   5 0.5326955988927475
+INFO:root:0.5384868852671939	['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:hyperopt.tpe:tpe_transform took 0.083055 seconds
+INFO:hyperopt.tpe:TPE using 160/160 trials with best loss 0.538443
+INFO:root:   22/32 ['active', 'age', 'age_years', 'alco', 'ap_error_swap', 'ap_hi', 'ap_lo', 'cholesterol_2', 'cholesterol_3', 'cholesterol_all', 'gender_female', 'gluc_1', 'gluc_2', 'gluc_all', 'height', 'imt', 'imt_class_1', 'imt_class_4', 'imt_class_all', 'smoke', 'weight', 'weight_low']
+INFO:root:   1 0.5345945280980228
+INFO:root:   2 0.5419202735968645
+INFO:root:   3 0.5425887495767284
