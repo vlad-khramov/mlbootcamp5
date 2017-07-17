@@ -16,7 +16,7 @@ from qml_workdir.classes.models import qm
 
 if __name__ == "__main__":
     CV_SCORE_TO_STOP = 0.5413
-    DATAS = [66]
+    DATAS = [6]
 
     EVALS_ROUNDS = 100000
 
@@ -51,18 +51,18 @@ if __name__ == "__main__":
                 alpha=params['alpha'],
                 max_depth=params['maxdepth'],
                 num_boost_round=params['num_boost_rounds'],
-		tree_method='hist'
+		        tree_method='hist'
             ),
             'hyperopt xgb'
         )
         res = cv.cross_val(model_id, data_id, seed=1000, early_stop_cv=lambda x: x>CV_SCORE_TO_STOP)
         res = np.float64(res)
         res_arr = [res]
-        # if res < CV_SCORE_TO_STOP:
-        #     for i in range(7):
-        #         res = cv.cross_val(model_id, data_id, seed=1001 + i, force=True)
-        #         res = np.float64(res)
-        #         res_arr.append(res)
+        if res < CV_SCORE_TO_STOP:
+            for i in range(7):
+                res = cv.cross_val(model_id, data_id, seed=1001 + i, force=True)
+                res = np.float64(res)
+                res_arr.append(res)
 
         print(data_id, model_id, "{}/{}".format(counter, rounds), res_arr, datetime.datetime.now(),  params)
         return np.mean(res_arr)

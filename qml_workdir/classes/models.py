@@ -7,10 +7,10 @@ qm = QModels()
 
 qm.add(1,
     QXgb(
-        booster='gblinear',
+        booster='gbtree',
         objective='binary:logistic',
         eval_metric='logloss',
-        eta=0.1,#learn_rate
+        eta=0.005,#learn_rate
         max_depth=3,
 
         num_boost_round=1000
@@ -42,21 +42,6 @@ qm.add(3,
     'simple xgb'
 )
 
-qm.add(5,
-    QXgb(
-        booster='gbtree',
-        objective='multi:softprob',
-        eval_metric='mlogloss',
-        subsample=0.5,
-        eta=0.001,#learn_rate
-        max_depth=3,
-        num_class=3,
-
-        num_boost_round=3400
-
-    ),
-    'simple xgb'
-)
 
 
 

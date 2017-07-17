@@ -131,7 +131,7 @@ class QModels:
             '_'.join([str(i) for i in sorted(train_ids)]).encode('utf-8') +
             '_'.join([str(i) for i in sorted(test_ids)]).encode('utf-8')
         ).hexdigest()
-        filename = QML_DATA_DIR + 'res/m{0:0=7d}_m{1:0=3d}__tr_{2}_ts_{3}_{4}_h_{5}_s_{6}.csv'.format(
+        filename = QML_DATA_DIR + 'res/m{0:0=7d}_d{1:0=3d}__tr_{2}_ts_{3}_{4}_h_{5}_s_{6}.csv'.format(
             model_id, data_id, len(train_ids), len(test_ids), tag, ids_hash, seed
         )
         return filename
