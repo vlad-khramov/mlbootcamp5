@@ -8,6 +8,6 @@ config.QML_TEST_X_FILE_MASK  = 'qml_workdir/data/v{0:0=4d}_test_x.csv' # мас�
 config.QML_TRAIN_Y_FILE_MASK = 'qml_workdir/data/train_y.csv' # файл с метками train set
 
 config.QML_RES_COL   = 'cardio' # колонка с метками
-сonfig.QML_INDEX_COL = 'id' # колонка с id
+config.QML_INDEX_COL = 'id'     # колонка с id
 
 #config.QML_RES_COL2  = ['high', 'medium', 'low']
